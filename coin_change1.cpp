@@ -18,5 +18,6 @@ using namespace std;
 
 int main(){
     c("sukhman");
+    c("my name is sandhu saab");
     return 0;
 }
